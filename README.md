@@ -14,13 +14,13 @@ gpExpr is developed by mailto:[gpsoftskyballs@gmail.com]
 
 Syntax is :
 
-[function name](arg1,arg2,arg3,...,argN)
+{function name}(arg1,arg2,arg3,...,argN)
 
 If an argument is a variable will be preceded by character ':'.
 
 For example :
 
-[CONVDATE](:CAMPO01,YYYYMMDD,DD-MM-YYYY)
+{CONVDATE}(:CAMPO01,YYYYMMDD,DD-MM-YYYY)
 
 Function actually implemented :
 
